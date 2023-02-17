@@ -1,0 +1,15 @@
+/Users/bcarranza/workspace/umg/1-2023/principles-of-software-engineer/KISS/bin/Debug/net6.0/KISS
+/Users/bcarranza/workspace/umg/1-2023/principles-of-software-engineer/KISS/bin/Debug/net6.0/KISS.deps.json
+/Users/bcarranza/workspace/umg/1-2023/principles-of-software-engineer/KISS/bin/Debug/net6.0/KISS.runtimeconfig.json
+/Users/bcarranza/workspace/umg/1-2023/principles-of-software-engineer/KISS/bin/Debug/net6.0/KISS.dll
+/Users/bcarranza/workspace/umg/1-2023/principles-of-software-engineer/KISS/bin/Debug/net6.0/KISS.pdb
+/Users/bcarranza/workspace/umg/1-2023/principles-of-software-engineer/KISS/obj/Debug/net6.0/KISS.csproj.AssemblyReference.cache
+/Users/bcarranza/workspace/umg/1-2023/principles-of-software-engineer/KISS/obj/Debug/net6.0/KISS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bcarranza/workspace/umg/1-2023/principles-of-software-engineer/KISS/obj/Debug/net6.0/KISS.AssemblyInfoInputs.cache
+/Users/bcarranza/workspace/umg/1-2023/principles-of-software-engineer/KISS/obj/Debug/net6.0/KISS.AssemblyInfo.cs
+/Users/bcarranza/workspace/umg/1-2023/principles-of-software-engineer/KISS/obj/Debug/net6.0/KISS.csproj.CoreCompileInputs.cache
+/Users/bcarranza/workspace/umg/1-2023/principles-of-software-engineer/KISS/obj/Debug/net6.0/KISS.dll
+/Users/bcarranza/workspace/umg/1-2023/principles-of-software-engineer/KISS/obj/Debug/net6.0/refint/KISS.dll
+/Users/bcarranza/workspace/umg/1-2023/principles-of-software-engineer/KISS/obj/Debug/net6.0/KISS.pdb
+/Users/bcarranza/workspace/umg/1-2023/principles-of-software-engineer/KISS/obj/Debug/net6.0/KISS.genruntimeconfig.cache
+/Users/bcarranza/workspace/umg/1-2023/principles-of-software-engineer/KISS/obj/Debug/net6.0/ref/KISS.dll
