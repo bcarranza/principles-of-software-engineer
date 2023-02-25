@@ -23,11 +23,12 @@ Al aplicar los principios SOLID, podemos asegurarnos de que nuestra clase FileRe
 Primero, creamos una interfaz IFileReader que define el método ReadFile():
 
 c#
-Copy code
+```
 public interface IFileReader
 {
     string ReadFile(string filePath);
 }
+```
 Luego, creamos una clase PdfFileReader que implementa la interfaz IFileReader para leer archivos PDF:
 
 c#
